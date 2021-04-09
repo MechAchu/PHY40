@@ -1,3 +1,0 @@
-x = a + (j * dx) is calculating the subintervals to plug into the myfunction
-
-integral += f * dx is adding each rectangle together to get the integral for f

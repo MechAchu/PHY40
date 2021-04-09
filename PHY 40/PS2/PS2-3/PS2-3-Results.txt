@@ -1,5 +1,0 @@
-For x = 0.9 and dx = 0.001, we get df/dx = 8.857759
-
-The derivative for this is actually
-x^7*e^x*sin(x) + 7x^6*e^x*sin(x) + x^7*e^x*cos(x) and when you plug in 0.9 we
-get 8.820189 which is very close to our approximation.

@@ -1,7 +1,0 @@
-For x = 0.0 and dx = 0.01, we get df/dx = -0.050
-For x = 1.57 and dx = 0.01, we get df/dx = -0.999987
-
-These answers are correct because the derivative of cos(x) is -sin(x). -sin(0)
-is zero, but using approximations it should be negative and close to zero which
-is what our answer is. -sin(1.57) is equal to -1 and our answer is a very close
-approximation to that.

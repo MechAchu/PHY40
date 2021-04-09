@@ -1,6 +1,0 @@
-It makes sense because the spring is 5 units away from the equilibrium so it
-wants to go backwards so as it gains a negative velocity it goes to zero from
-5.
-
-It makes sense because the spring has a large enough velocity that it overshoots
-the equilibrium point and is going behind the equilibrium position.

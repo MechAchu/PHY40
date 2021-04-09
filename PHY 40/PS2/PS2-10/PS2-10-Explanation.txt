@@ -1,9 +1,0 @@
-This makes sense because at the beginning of the simulation the spring is 5m off
-of equilibrium, so it must compensate for this by going backwards which is a
-negative velocity.
-
-The second part makes sense because at the equilibrium point the object will
-have it's maximum kinetic energy and is currently moving backwards which is why
-it has a negative velocity. Then after this the velocity starts going to 0 as
-the object gets to x = -5. As this is the point the object wants to go back to
-equilibrium and must gain a positive velocity.
