@@ -1,0 +1,21 @@
+For the rectangular Riemann sum we get the integral with N = 10 to be
+equal to 35.8950
+
+For the rectangular Riemann sum we get the integral with N = 100 to be
+equal to 38.685450
+
+For the trapezoidal rule we get the integral with N = 10 to be
+equal to 40.2450
+
+For the trapezoidal rule we get the integral with N = 100 to be
+equal to 39.120450
+
+
+Using the integral rules the definite integral of x^2 is 39, so the trapezoidal
+rule is always closer to the actual definite integral, and is better for that
+reason. The reason the trapezoidal rule is better is because it is the average
+of the left and right sums, and is better able to accommodate the curve than an
+individual rectangle whose corner touches the curve. If you look at a diagram
+of using the trapezoidal rule we see that due to it being the average of the left
+and right sums we are able to accompany parts of the area where it may be an
+underapproximation or an over-approximation if we were to use rectangles.

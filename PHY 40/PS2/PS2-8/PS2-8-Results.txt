@@ -1,0 +1,11 @@
+The answer we get is 0.140386
+
+
+Looking at the behavior of each term individually we see that x^0.34 rises very
+slowly, e^0.25*x also rises slowly until x goes past 4, sin(x) must fluctuate
+between -1 <= x <= 1, 1/2.2+9*sqrt(x) decreases fairly slowly. So then Looking
+at this we know that the sin(x) must go from positive to negative, and with
+the multiples the numerator must be less than 1, and dividing by the denominator
+we know that the answer we get from the numerator must be divided even smaller,
+so for x = 1 we get approximately 1/2. So this means that the amplitude can't be
+greater than 0.75 for our domain, so the integral must be less than 1.

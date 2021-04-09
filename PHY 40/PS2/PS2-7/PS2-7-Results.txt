@@ -1,0 +1,11 @@
+For n = 10 we get 7.885166
+
+For n = 100 we get 7.155938
+
+For n = 1000 we get 7.077500
+
+
+We can calculate the integral without any calculus by recognizing that the
+function is a quarter circle with radius of 3 in the first quadrant. We simply
+just take the area of a circle and divide it by 4. So the answer is (pi*r^2)/4
+so pi*9/4 is the answer.
