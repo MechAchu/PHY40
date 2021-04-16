@@ -1,0 +1,11 @@
+Vy is nonzero because, we start the system at a vertical tangent line, so the only
+velocity the object can have is in the y-direction.
+
+A good number for dt is 10,000 seconds this is because dt/T << 1
+
+N = 2365, The resulting orbit is correct, 3/4 of the orbit starting at y=0;
+
+With V/2 it decreases the magnitude of the orbit in the y-direction by 1/2
+
+With 2V it increases the magnitude of the orbit in the y-direction by 2 times
+As N increases then the time evolution of the system increases, e.g. 9 months -> 1 year.

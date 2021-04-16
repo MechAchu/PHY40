@@ -1,0 +1,4 @@
+Increasing b decreases the total distance traveled in a certain time.
+
+It's almost like if you drop a ball from a building, with imperfect elasticity.
+It goes up and down but will eventually stop.

@@ -1,0 +1,9 @@
+The final time at the end of the simulation is 19.99 s
+
+The final velocity is 5.995 m/s
+
+v = v0 + at = -4 + 1/2 * 19.99 = 5.995 m/s - Matches
+
+The final position is 25.89005 m. The change in position is 25.89005 - 6 = 19.89005 m
+
+x = v0*t + 1/2 at^2 = -4 * 19.99 + 1/2 1/2 * 19.99^2 = 19.940025. The change in position is off slightly.

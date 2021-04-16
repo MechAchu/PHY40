@@ -1,0 +1,8 @@
+The range is 20 m
+
+When m = 7 the range is the same. This is because the mass doesn't matter when we don't include air resistance
+
+t = vy-vy0 / ay = -19.6/-9.8 = 2 * 2 = 4
+x = vx*t = 5 * 4 = 20
+
+Matches with the kinematics
